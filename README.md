@@ -15,4 +15,4 @@ My motivation for creating a online portfolio is to show of my work to others an
 ![This is a photo of my Portfolio.](./ReadMe3.PNG)
 
 ## Link
-This is a link to the webpage:
+This is a link to the webpage:(https://foundeven.github.io/WeekTwoChallenge_Portfolio/)
