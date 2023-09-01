@@ -106,6 +106,7 @@ p{
     width: 45%;
     font-size: 20px;
     margin: 10px;
+    border: 2px solid black;
 
 }
 /* This sets up the size of each project card */
@@ -151,14 +152,14 @@ p{
 
 /* This section is to resize for different media devices*/
 @media screen and (max-width: 768px) {
-    .work {
-        width: 50%;
+    .nav {
+      width: 50%;
     }
 
 }
 
 @media screen and (max-width: 576px) {
-    .work {
+    .nav {
         width: 100%;
     }
 }
